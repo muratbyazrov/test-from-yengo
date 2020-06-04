@@ -1,0 +1,13 @@
+.content__title {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0px auto 4px;
+}
+
+@media screen and (max-width: 400px) {
+    .content__title {
+        font-size: 14px;
+        line-height: 18px;
+    }
+}

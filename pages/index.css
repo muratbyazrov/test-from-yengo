@@ -1,0 +1,14 @@
+@import '../vendor/normalize.css';
+@import '../blocks/content/content.css';
+@import '../blocks/counter/counter.css';
+
+@font-face {
+    font-family: Open-sans;
+    src: url('../fonts/Open_Sans/OpenSans-Regular.ttf');
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    max-width: 1440px;
+}

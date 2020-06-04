@@ -1,0 +1,21 @@
+@import '../content/__block/content__block.css';
+@import '../content/__image/content__image.css';
+@import '../content/__subtitle/content__subtitle.css';
+@import '../content/__text/content__text.css';
+@import '../content/__title/content__title.css';
+
+.content {
+    max-width: 95%;
+    margin: 100px auto;
+    display: grid;
+    grid-template-columns: repeat( auto-fill, 275px);
+    grid-gap: 16px;
+    justify-content: center;
+}
+
+@media screen and (max-width: 400px) {
+    .content {
+        margin: 25px auto;
+    }
+}
+
