@@ -1,5 +1,5 @@
 # test-from-yengo
-[ссылка на страничку](https://muratbyazrov.github.io/test-from-yengo/)
+[ссылка на страничку](https://muratbyazrov.github.io/test-from-yengo)
 
 ### Что сделано?
 - страница сверстана в соответвие с дизайном
